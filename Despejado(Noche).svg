@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 384 388.16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_Ãðàä_íò_áåç_íàçâè_11);
+      }
+    </style>
+    <linearGradient id="_Ãðàä_íò_áåç_íàçâè_11" data-name="Ãðàä³ºíò áåç íàçâè 11" x1="0" y1="194.08" x2="384" y2="194.08" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fccb4b"/>
+      <stop offset="1" stop-color="#fbb849"/>
+    </linearGradient>
+  </defs>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <path class="cls-1" d="M383.42,255.16c-27.15,79.06-103.18,135.39-192.01,132.92C86.06,385.15,1.37,299.11.02,193.72-1.18,100.82,61.93,22.46,147.64.34c9.53-2.46,16.52,8.99,9.96,16.32-23.82,26.61-38.61,61.46-39.56,99.75-2.21,89.13,71.49,162.26,160.6,159.37,33.5-1.09,64.32-12.77,89.22-31.8,7.87-6.01,18.76,1.82,15.54,11.18Z"/>
+  </g>
+</svg>
