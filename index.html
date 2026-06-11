@@ -36,10 +36,10 @@
       /* HORA */
       .time {
         position: absolute;
-        top: 33%;
-        left: 22%;
+        top: 26%;
+        left: 17%;
         transform: translate(-50%, -50%);
-        font-size: 94px;
+        font-size: 118px;
         font-weight: bold;
         color: #ffffff;
       }
@@ -48,11 +48,11 @@
       .date {
         position: absolute;
         top: 68%;
-        left: 22%;
+        left: 18%;
         transform: translate(-50%, -50%);
-        font-size: 58px;
+        font-size: 48px;
         font-weight: bold;
-        color: #4a90e2;
+        color: #0033d3;
         text-align: center;
         line-height: 1.1;
       }
@@ -70,12 +70,12 @@
       /* TEMPERATURA */
       .weather {
         position: absolute;
-        top: 48%;
+        top: 52%;
         left: 74%;
         transform: translate(-50%, -50%);
-        font-size: 90px;
+        font-size: 107px;
         font-weight: bold;
-        color: #000000;
+        color: #0033d3;
       }
 
       /* DESCRIPCIÓN */
@@ -84,8 +84,8 @@
         top: 72%;
         left: 74%;
         transform: translate(-50%, -50%);
-        font-size: 62px;
-        color: #4a90e2;
+        font-size: 44px;
+        color: #0033d3;
       }
 
       /* CIUDAD */
@@ -145,7 +145,7 @@
         const day = now.getDate();
         const month = months[now.getMonth()];
 
-        document.getElementById("date").innerHTML = `${dayName}<br>${day} de ${month}`;
+        document.getElementById("date").innerHTML = `${dayName} ${day} de ${month}`;
       }
 
       /* ========================
